@@ -1,1 +1,6 @@
-
+!pip install preliz
+import preliz as pz
+import numpy as np
+import arviz as az
+import pymc as pm
+elements = pd.read_csv()
