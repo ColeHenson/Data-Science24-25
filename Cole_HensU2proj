@@ -1,7 +1,1 @@
-!pip install preliz
-import preliz as pz
-import numpy as np
-import arviz as az
-import pymc as pm
-elements = pd.read_csv(https://github.com/ColeHenson/Data-Science24-25/blob/main/elements-by-episode.csv);
-elements
+
